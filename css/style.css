@@ -8,7 +8,9 @@
     background-color: rgb(24, 28, 48);
     color: #E6DDC4;
 }
-
+.colorCarta{
+    color: #F0F5E4;
+}
 .body-night {
 
     background-color: rgb(230, 221, 196);
@@ -76,6 +78,7 @@ main {
     font-weight: 300;
 
 }
+
 
 .item-menu:active {
     transform: translate(3px, 2px);
